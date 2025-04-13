@@ -1,0 +1,3 @@
+[2025-04-13 18:06:11][ERROR][LoggerTester] This is an error message.
+[2025-04-13 18:07:49][ERROR][Main] checkIfPalindrome was called
+[2025-04-13 18:07:49][ERROR][LoggerTester] This is an error message.
